@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/utp/Documents/Trabajo Procesador/procesador_1/Sumador.xst" -ofn "C:/Users/utp/Documents/Trabajo Procesador/procesador_1/Sumador.syr" 

@@ -1,0 +1,36 @@
+Release 14.7 - xst P.20131013 (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to D:/Desktop/Angela/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.32 secs
+ 
+--> Parameter xsthdpdir set to D:/Desktop/Angela/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.32 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+WARNING:HDLParsers:3607 - Unit work/Pc_Counter is now defined in a different file.  It was defined in "D:/Desktop/Arquitectura_Computadores-Angelita/Pc_Counter.vhd", and is now defined in "D:/Desktop/Angela/Pc_Counter.vhd".
+WARNING:HDLParsers:3607 - Unit work/Pc_Counter/Behavioral is now defined in a different file.  It was defined in "D:/Desktop/Arquitectura_Computadores-Angelita/Pc_Counter.vhd", and is now defined in "D:/Desktop/Angela/Pc_Counter.vhd".
+Compiling vhdl file "D:/Desktop/Angela/Pc_Counter.vhd" in Library work.
+Architecture behavioral of Entity pc_counter is up to date.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.41 secs
+ 
+--> 
+
+Total memory usage is 165784 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    3 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

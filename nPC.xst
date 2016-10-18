@@ -1,0 +1,5 @@
+set -tmpdir "D:/Desktop/Angela/xst/projnav.tmp"
+set -xsthdpdir "D:/Desktop/Angela/xst"
+elaborate
+-ifn nPC.prj
+-ifmt mixed

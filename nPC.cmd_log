@@ -1,0 +1,1 @@
+vhdtdtfi -prj procesador_1 -o D:/Desktop/Angela/nPC.vhi -module nPC -template C:/Users/JUNIOR/Desktop/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work nPC.vhd 

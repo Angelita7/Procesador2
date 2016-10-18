@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "F:/Arquitectura_Computadores-master/Pc_Counter.xst" -ofn "F:/Arquitectura_Computadores-master/Pc_Counter.syr" 

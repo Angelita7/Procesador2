@@ -1,0 +1,5 @@
+set -tmpdir "D:/Desktop/Arquitectura_Computadores-Angelita/xst/projnav.tmp"
+set -xsthdpdir "D:/Desktop/Arquitectura_Computadores-Angelita/xst"
+elaborate
+-ifn .prj
+-ifmt mixed

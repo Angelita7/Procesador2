@@ -1,0 +1,5 @@
+set -tmpdir "D:/Desktop/Angela_Arquitectura2/xst/projnav.tmp"
+set -xsthdpdir "D:/Desktop/Angela_Arquitectura2/xst"
+elaborate
+-ifn Multiplexor.prj
+-ifmt mixed

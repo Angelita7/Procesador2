@@ -1,0 +1,1 @@
+vhdtdtfi -lib work Multiplexor.vhd -prj procesador_1 -o Multiplexor.spl -module Multiplexor -template C:/Users/JUNIOR/Desktop/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 

@@ -1,0 +1,2 @@
+vhdl isim_temp "Pc_Counter.vhd"
+vhdl isim_temp "Pc_Test.vhd"
